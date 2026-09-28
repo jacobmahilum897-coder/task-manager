@@ -1,3 +1,7 @@
+<img width="1917" height="1196" alt="image" src="https://github.com/user-attachments/assets/46341dec-03bf-4af1-9e7d-06daa539e896" />
+
+
+
 # Task Manager
 
 ## Project Information
